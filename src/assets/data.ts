@@ -1,8 +1,4 @@
-export const wayPoints: Object[] = [
-  {
-    x: 0,
-    y: 0,
-  },
+export const wayPoints: Array<{ x: number; y: number }> = [
   {
     x: -165.666666666667,
     y: 679.333333333333,
